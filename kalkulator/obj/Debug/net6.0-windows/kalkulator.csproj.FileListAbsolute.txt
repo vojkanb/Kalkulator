@@ -1,0 +1,17 @@
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\bin\Debug\net6.0-windows\kalkulator.exe
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\bin\Debug\net6.0-windows\kalkulator.deps.json
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\bin\Debug\net6.0-windows\kalkulator.runtimeconfig.json
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\bin\Debug\net6.0-windows\kalkulator.dll
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\bin\Debug\net6.0-windows\kalkulator.pdb
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.csproj.AssemblyReference.cache
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.Form1.resources
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.csproj.GenerateResource.cache
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.AssemblyInfoInputs.cache
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.AssemblyInfo.cs
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.dll
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\refint\kalkulator.dll
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.pdb
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\kalkulator.genruntimeconfig.cache
+C:\Users\bilinac\Desktop\kalk foreal\kalkulator\obj\Debug\net6.0-windows\ref\kalkulator.dll
